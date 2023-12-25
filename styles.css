@@ -1,0 +1,9 @@
+#student-info {
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+#profile-pic {
+    border: 2px solid black;
+    border-radius: 0%;
+}
